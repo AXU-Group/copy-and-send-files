@@ -1,0 +1,12 @@
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\bin\Debug\csf.exe.config
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\bin\Debug\csf.exe
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\bin\Debug\csf.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\obj\Debug\csf.MDI.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\obj\Debug\csf.Properties.Resources.resources
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\obj\Debug\csf.exe
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\obj\Debug\csf.pdb
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\GuilleDell\Documents\Visual Studio 2010\Projects\csf\csf\bin\Debug\Microsoft.Win32.TaskScheduler.dll
